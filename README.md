@@ -72,19 +72,31 @@ In later stages, **collectibles** are required to unlock progression.
 
 ---
 
-## Screenshots
+## Gameplay Screenshots
 
-### Gameplay
+### Main Menu
+![Main Menu](Documents/screenshots/MainMenu.png)
 
-![Screenshot 1](docs/screenshots/screenshot1.png)
-![Screenshot 2](docs/screenshots/screenshot2.png)
-![Screenshot 3](docs/screenshots/screenshot3.png)
+### Level 1 – Lava World
+![Level 1](Documents/screenshots/Level1.png)
 
-> Replace these images with actual gameplay screenshots or GIFs
+### Level 2 – Part 1 (Mountain)
+![Level 2 Part 1](Documents/screenshots/Level2.1.png)
+
+### Level 2 – Part 2 (Mine)
+![Level 2 Part 2](Documents/screenshots/Level2.2.png)
+
+### Pause Menu
+![Pause Menu](Documents/screenshots/Pause2.png)
+
+### Victory Screen
+![Victory Screen](Documents/screenshots/Win.png)
+
+### Defeat Screen
+![Defeat Screen](Documents/screenshots/Defeat.png)
+
 
 ---
 
 ## Installation
-
-```bash
-git clone https://github.com/your-username/parkour-united.git
+- Download the zip of the game in the Documents directory.
